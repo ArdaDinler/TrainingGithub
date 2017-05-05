@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     tools:context="com.arda.sadelabs01.traininggithub.MainActivity">
 
-    <TextView
+    <EditText
+        android:id="@+id/TestTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
